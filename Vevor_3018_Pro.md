@@ -1,3 +1,5 @@
+Requirement : 
+
 # 1. Configuration for laserweb
 
 ## A. Lasercutter
@@ -15,8 +17,21 @@ Third, you have to choose show the space.
 
 ### 2) Use of the lasercutter
 #### a)Creation of the file
+You can choose to have a vector file (vector - cutting/engraving) or a raster file (image - engraving)
+
+If you have a vector file, only the following extension can be use
+ - svg 
+
+If you have a raster file, only the following extension can be use
+- bmp
 
 #### b)Creation of the Gcode
+- In the left panel, you have to navigate to "Files".
+- Choose "Add Document".
+- Select all the documents you want to use.
+- From the document list, select either multiple or single objects and drag them to the G-code "placeholder".
+- Choose the parameters you desire (refer to Annex A: Benchmark for details).
+- Click on "generate"
 
 #### c)Preparation of the working space
 
