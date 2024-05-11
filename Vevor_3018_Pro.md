@@ -8,12 +8,16 @@ Requirement :
 
 First, you have to create a new profile for this lasercutter on the sofware.
 
+(on machine part)
 Second, you have to specify the dimension of the working space (_you have to keep in mind that in somecase the working surface is not the same as the surface of the bed. It's the case here._)
 
 - Machine width : 290 MM
 - Machine height : 135 MM
 
 Third, you have to choose show the space. 
+
+Fourth, you have to specify the width of the laser beam.
+- Here is 0,2MM
 
 ### 2) Use of the lasercutter
 #### a)Creation of the file
